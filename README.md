@@ -1,4 +1,4 @@
-# primeiro-py
+# primeiro.py
 Esse é meu primeiro código **.py**. <br>
 Esse código foi feito para cumprir uma atividade da matéria de Introdução à Programação da faculdade. <br>
 O objetivo do código é capturar a quantidade e valor das horas mensais trabalhadas, usar esses dados para calcular o bruto mensal e usando esse bruto para aplicar os descontos previstos na atividade (IR, INSS, sindicato), por fim, o código exibe para o usuário, através do terminal, o valor dos descontos e o salário líquido.
